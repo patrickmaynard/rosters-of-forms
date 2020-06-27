@@ -7,4 +7,4 @@ This repository is based on initial work done in the Baltimore Sun newsroom. It 
 
 A request-tracking document is here:
 
-https://docs.google.com/spreadsheets/d/1IUK3nt7jVCMi2kBKvKA2TcvWk_bpeQeRwz2KKEGBacQ/edit#gid=0
+https://docs.google.com/spreadsheets/d/1IUK3nt7jVCMi2kBKvKA2TcvWk_bpeQeRwz2KKEGBacQ/edit

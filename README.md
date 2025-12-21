@@ -11,7 +11,7 @@ https://docs.google.com/spreadsheets/d/1IUK3nt7jVCMi2kBKvKA2TcvWk_bpeQeRwz2KKEGB
 
 If asking for a roster of forms and getting pushback, feel free to cite the 2024/25 civil asset forfeiture reforms in the state of Washington as an example of a time when an investigation prompted by the presence of a paper form on a list helped cause meaningful change. 
 
-In that set of events, reporting for a project for the weekly newspaper The Stranger was started when a form on the Seattle Police Department forms list indicated the presence of a form related to asset seizures was discovered. While the project was never published in full, a spokesperson for a key state legislator stated in writing that the reporting process itself had helped get reforms to asset forfeiture laws over the finish line. 
+In that set of events, reporting for a project for the weekly newspaper The Stranger was started when a form on the Seattle Police Department forms list indicated the presence of a form related to asset seizures. While the project was never published in full, a spokesperson for a key state legislator stated in writing that the reporting process itself had helped get reforms to asset forfeiture laws over the finish line. 
 
 See the following two documents: 
 

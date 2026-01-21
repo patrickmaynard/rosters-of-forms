@@ -19,6 +19,8 @@ https://github.com/patrickmaynard/rosters-of-forms/blob/master/washington-email-
 
 https://senatedemocrats.wa.gov/hasegawa/2025/05/17/more-consistency-transparency-and-justice-in-civil-asset-forfeiture-signed-into-law/ 
 
-For fire department form information, see https://github.com/patrickmaynard/rosters-of-forms-for-fire-departments 
+For fire department form information, see the repository for that category: 
+
+https://github.com/patrickmaynard/rosters-of-forms-for-fire-departments 
 
 Happy requesting! 

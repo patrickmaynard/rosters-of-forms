@@ -21,9 +21,11 @@ https://senatedemocrats.wa.gov/hasegawa/2025/05/17/more-consistency-transparency
 
 Please feel free to fork/mirror this repository. Here are two existing mirrors in case my account gets broken into: 
 
-https://github.com/LeakForge/rosters-of-forms 
+https://github.com/spcanelon/rosters-of-forms (current/full as of February 2026)
 
-https://github.com/spcanelon/rosters-of-forms
+https://github.com/LeakForge/rosters-of-forms (partial as of February 2026)
+
+https://web.archive.org/web/20260000000000*/https://github.com/patrickmaynard/rosters-of-forms (partial as of February 2026)
 
 For fire department form information, see the repository for that category: 
 

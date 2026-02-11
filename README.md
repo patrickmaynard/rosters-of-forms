@@ -19,7 +19,7 @@ https://github.com/patrickmaynard/rosters-of-forms/blob/master/washington-email-
 
 https://senatedemocrats.wa.gov/hasegawa/2025/05/17/more-consistency-transparency-and-justice-in-civil-asset-forfeiture-signed-into-law/ 
 
-Please feel free to fork/mirror this repository. Here are two existing mirrors in case my account gets broken into: 
+Please feel free to fork/mirror this repository. Here are a few existing mirrors in case my account gets broken into: 
 
 https://github.com/spcanelon/rosters-of-forms (current/full as of February 2026)
 

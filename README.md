@@ -5,9 +5,11 @@ A forms roster is a document that tracks the forms maintained by a police depart
 
 This repository is based on initial work done in the Baltimore Sun newsroom. It has since been expanded with additional form lists.
 
-A spreadsheet that tracks requests for lists of forms is here:
+A spreadsheet that tracks requests for lists of forms is here: 
 
 https://docs.google.com/spreadsheets/d/1IUK3nt7jVCMi2kBKvKA2TcvWk_bpeQeRwz2KKEGBacQ/edit
+
+Please consider adding your own requests for form lists to the spreadsheet. 
 
 If asking for a roster of forms and getting pushback, feel free to cite the 2024/25 civil asset forfeiture reforms in the state of Washington as an example of a time when an investigation prompted by the presence of a paper form on a list helped cause meaningful change. 
 

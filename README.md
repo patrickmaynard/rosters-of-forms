@@ -5,35 +5,40 @@ A forms roster is a document that tracks the forms maintained by a police depart
 
 This repository is based on initial work done in the Baltimore Sun newsroom. It has since been expanded with additional form lists.
 
-A spreadsheet that tracks requests for lists of forms is here: 
+A spreadsheet that tracks requests for lists of forms is here:
 
 https://docs.google.com/spreadsheets/d/1IUK3nt7jVCMi2kBKvKA2TcvWk_bpeQeRwz2KKEGBacQ/edit
 
-Please consider adding your own requests for form lists to the spreadsheet. 
+Please consider adding your own requests for form lists to the spreadsheet.
 
-If asking for a roster of forms and getting pushback, feel free to cite the 2024/25 civil asset forfeiture reforms in the state of Washington as an example of a time when an investigation prompted by the presence of a paper form on a list helped cause meaningful change. 
+If asking for a roster of forms and getting pushback, feel free to cite the 2024/25 civil asset forfeiture reforms in the state of Washington as an example of a time when an investigation prompted by the presence of a paper form on a list helped cause meaningful change.
 
-In that set of events, reporting for a project for the weekly newspaper The Stranger was started when a form on the Seattle Police Department forms list indicated the presence of a form related to asset seizures. While the project was never published in full, a spokesperson for a key state legislator stated in writing that the reporting process itself had helped get reforms to asset forfeiture laws passed. 
+In that set of events, reporting for a project for the weekly newspaper The Stranger was started when a form on the Seattle Police Department forms list indicated the presence of a form related to asset seizures. While the project was never published in full, a spokesperson for a key state legislator stated in writing that the reporting process itself had helped get reforms to asset forfeiture laws passed.
 
-See the following two documents: 
+See the following two documents:
 
 https://github.com/patrickmaynard/rosters-of-forms/blob/master/washington-email-citing-effects-of-reporting.txt
 
-https://senatedemocrats.wa.gov/hasegawa/2025/05/17/more-consistency-transparency-and-justice-in-civil-asset-forfeiture-signed-into-law/ 
+https://senatedemocrats.wa.gov/hasegawa/2025/05/17/more-consistency-transparency-and-justice-in-civil-asset-forfeiture-signed-into-law/
 
-Please feel free to fork/mirror this repository. Here are a few existing full or partial mirrors: 
+Please feel free to fork/mirror this repository. Here are a few existing full or partial mirrors:
 
-https://github.com/spcanelon/rosters-of-forms 
+https://github.com/spcanelon/rosters-of-forms
 (current/full as of February 2026)
 
 https://github.com/LeakForge/rosters-of-forms
 (partial as of February 2026)
 
-https://web.archive.org/web/20260000000000*/https://github.com/patrickmaynard/rosters-of-forms 
+https://web.archive.org/web/20260000000000*/https://github.com/patrickmaynard/rosters-of-forms
 (partial as of February 2026)
 
-For fire department form information, see the repository for that category: 
+If a police department won't give you their roster of forms, or if you are
+looking for metadata about documents that aren't forms, it may also be worth
+asking the department for their document retention schedule. This covers a
+broader category of documents.
 
-https://github.com/patrickmaynard/rosters-of-forms-for-fire-departments 
+For fire department form information, see the repository for that category:
 
-Happy requesting! 
+https://github.com/patrickmaynard/rosters-of-forms-for-fire-departments
+
+Happy requesting!

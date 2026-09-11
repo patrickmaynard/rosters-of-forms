@@ -36,7 +36,9 @@ If a police department won't give you their roster of forms, or if you are
 looking for metadata about documents that aren't forms, it may also be worth
 asking the department for their document retention schedule. This often covers
 a broader category of documents, though it sometimes omits documents that are
-mentioned in a roster of forms.
+mentioned in a roster of forms. 
+
+For example: https://github.com/justin-oconnor/louisiana-records-retention-schedules 
 
 For fire department form information, see the repository for that category:
 
